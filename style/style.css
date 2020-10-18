@@ -1,0 +1,32 @@
+.contant{
+    color: red;
+}
+.myclass{
+    text-align: center;
+}
+.item{
+    float: inline-start;
+    margin-left: 400px;
+}
+.singh{
+    width: 800px;
+    height: 400px;
+    font-style: italic;
+    
+    border: 2px solid red;
+}
+.kumar{
+    width: 800px;
+    height: 400px;
+    font: italic;
+    border: 2px solid green;
+
+    
+}
+.samod{
+    width: 800px;
+    height: 400px;
+    font: italic;
+    border: 2px solid black;
+
+}
